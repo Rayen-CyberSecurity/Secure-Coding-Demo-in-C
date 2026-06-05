@@ -40,5 +40,5 @@ Replace the filename to run a different example, for example:
 
 ## Notes
 
-Example 02 intentionally triggers the compiler's `-Wformat-security` warning —
+Example 02 intentionally triggers the compiler's `-Wformat-security` warning :
 that warning is exactly the tool that helps catch this class of bug.
